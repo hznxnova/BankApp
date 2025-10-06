@@ -1,0 +1,6 @@
+﻿  BankApp.cpp
+C:\Users\hznxn\OneDrive\Documents\My GitHub Repositories\BankApp\BankApp\BankApp.cpp(29,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hznxn\OneDrive\Documents\My GitHub Repositories\BankApp\BankApp\BankApp.cpp(377,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\hznxn\OneDrive\Documents\My GitHub Repositories\BankApp\BankApp\BankApp.cpp(416,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\hznxn\OneDrive\Documents\My GitHub Repositories\BankApp\BankApp\BankApp.cpp(594,1): warning C4715: 'ClientWithdrawing': not all control paths return a value
+  BankApp.vcxproj -> C:\Users\hznxn\OneDrive\Documents\My GitHub Repositories\BankApp\x64\Debug\BankApp.exe
